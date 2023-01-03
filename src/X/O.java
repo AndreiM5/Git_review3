@@ -3,6 +3,6 @@ package X;
 public class O {
 
     public static void main(String[] args) {
-        System.out.println("O is optional");
+        System.out.println("O is optional, or remove it");
     }
 }
